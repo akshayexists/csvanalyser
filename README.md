@@ -1,6 +1,6 @@
 # 📊 CSV Analyzer
 
-A streamlit app written as a way to circumvent writing fresh code on csv files each time I encounter them.
+A streamlit app written as a way to circumvent writing fresh code for csv files each time I encounter them.
 
 ## Features
 
